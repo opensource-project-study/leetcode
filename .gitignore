@@ -1,0 +1,15 @@
+.idea/
+.DS_Store
+.vscode
+.temp
+.vitepress
+*.iml
+__pycache__
+/node_modules
+/solution/result.json
+/solution/__pycache__
+/solution/.env
+.cache
+!.cache/plugin/
+!.cache/plugin/git-committers/
+!.cache/plugin/git-committers/page-authors.json
